@@ -47,5 +47,5 @@ This was built as a solo lab exercise, not inside a live company environment. Wi
 | Documentation | `kb-articles/` |
 
 ---
-Jaden Mascarenhas — [LinkedIn](https://linkedin.com/in/jaden-mascarenhas-989b6a254) | [GitHub](https://github.com/jaden-mas1010) | [Portfolio](https://jaden-mas1010.github.io)
+Jaden Mascarenhas — [LinkedIn](https://linkedin.com/in/jaden-mascarenhas-989b6a254) | [GitHub](https://github.com/jaden-mas1010) | [Portfolio](https://jaden-mas1010.github.io)|https://youtu.be/tdhzgWCZHko?is=9x2j_wzyURtl7_rI
 
